@@ -1,9 +1,9 @@
 export default function HeroSection(){
     return (
         <section id="heroSection" className="hero--section">
-            {/* <div className="hero--section--img">
+            <div className="hero--section--img">
                 <img src="./img/hero_img.jpg" alt="Hero Section"/>
-            </div> */}
+            </div> 
             <div className="hero--section--content--box">
                 <div className="hero--section--content">
                     <p className="section-title">Sai Sunil Akurathi1</p>
